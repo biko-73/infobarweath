@@ -7,7 +7,7 @@
 # =====================================================================================================================
 
 PACKAGE_DIR='infobarweather/main'
-MY_IPK="enigma2-plugin-extensions-infobarweather_0.17_all.ipk"
+MY_IPK="enigma2-plugin-extensions-infobarweather_2.0+git53+ba29e87-r0.2_armv7ahf-neon"
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
 if which opkg > /dev/null 2>&1; then
